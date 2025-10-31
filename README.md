@@ -15,8 +15,7 @@ Built for durability and heavy impacts. Includes reinforced armor plates and sho
 
 - Weapon System
 
-Rotating Drum Weapon:
-Designed for maximum kinetic impact. High moment of inertia with strategically placed mass distribution for stable rotation and destructive hits.
+Axial double-blade spinner designed to store high kinetic energy and deliver wide-impact strikes. Symmetrical crescent blades ensure dynamic balance and use replaceable hardened edges for quick maintenance. Central rigid hub/shaft mounting provides high-RPM stability while controlling gyroscopic effects.
 
 Design Features
 
